@@ -1,0 +1,22 @@
+
+*{
+    font-family: 'work Sams', Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-style: normal;    
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    font-style: normal;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+p {
+    font-style: italic;
+    
+}
